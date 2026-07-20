@@ -2,15 +2,15 @@
 
 Projeto desenvolvido em **Microsoft Excel** para analisar a rentabilidade de motoristas de aplicativo por meio de indicadores financeiros e operacionais.
 
-> **Projeto desenvolvido com dados reais coletados durante operações como motorista de aplicativo.**
+> **Este projeto utiliza dados reais coletados durante operações como motorista de aplicativo.**
 >
-> Os dados são atualizados semanalmente, permitindo acompanhar a evolução da receita, custos, lucro e produtividade ao longo do tempo.
+> O dashboard é atualizado semanalmente, permitindo acompanhar a evolução da receita, custos, lucro e produtividade por meio de indicadores e visualizações interativas.
 
 ---
 
 # 📌 Objetivo
 
-Desenvolver um dashboard interativo capaz de transformar dados operacionais em informações estratégicas, auxiliando na tomada de decisão através de indicadores de desempenho, gráficos e análises visuais.
+Desenvolver um dashboard interativo capaz de transformar dados operacionais em informações estratégicas, auxiliando na tomada de decisão através de indicadores financeiros, gráficos e análises visuais.
 
 ---
 
@@ -25,7 +25,7 @@ Desenvolver um dashboard interativo capaz de transformar dados operacionais em i
 - 💸 Distribuição dos custos
 - 📋 Métricas de produtividade
 - 💡 Insights estratégicos
-- 📊 Atualização com dados reais
+- 📊 Atualização contínua com dados reais
 
 ---
 
@@ -58,7 +58,7 @@ Desenvolver um dashboard interativo capaz de transformar dados operacionais em i
 
 # 📂 Estrutura do Projeto
 
-O projeto foi dividido em quatro etapas principais:
+O projeto foi organizado em quatro etapas principais.
 
 ## 📁 Registro
 
@@ -135,10 +135,13 @@ Painel interativo utilizado para análise financeira e operacional da atividade.
 
 # ▶️ Como Utilizar
 
-1. Abra o arquivo `.xlsx` no Microsoft Excel.
-2. Utilize os filtros para selecionar o período desejado.
-3. Analise os indicadores e gráficos do dashboard.
-4. Adicione novas corridas na aba **Registro** para atualizar automaticamente as análises.
+1. Faça o download do arquivo **Dashboard_Rentabilidade_Motorista_Aplicativo.xlsx**.
+2. Abra o arquivo no **Microsoft Excel**.
+3. Utilize os filtros para selecionar o período ou aplicativo desejado.
+4. Analise os indicadores, gráficos e insights apresentados no dashboard.
+5. Adicione novas corridas na aba **Registro** para atualizar automaticamente todas as métricas e visualizações.
+
+> **Observação:** Os dados utilizados neste projeto são provenientes de operações reais. Informações sensíveis foram removidas ou anonimizadas para preservar a privacidade.
 
 ---
 
