@@ -88,37 +88,37 @@ Painel interativo utilizado para análise financeira e operacional da atividade.
 
 ## Dashboard Principal
 
-<img src="images/dashboard-principal.png" width="900">
+<img src="dashboard-principal.png" width="900">
 
 ---
 
 ## Indicadores (KPIs)
 
-<img src="images/dashboard-kpis.png" width="900">
+<img src="dashboard-kpis.png" width="900">
 
 ---
 
 ## Dashboard com Filtros Aplicados
 
-<img src="images/dashboard-filtros.png" width="900">
+<img src="dashboard-filtros.png" width="900">
 
 ---
 
 ## Insights Principais
 
-<img src="images/dashboard-insights.png" width="900">
+<img src="dashboard-insights.png" width="900">
 
 ---
 
 ## Base de Dados
 
-<img src="images/base-dados.png" width="900">
+<img src="base-dados.png" width="900">
 
 ---
 
 ## Tabela Dinâmica
 
-<img src="images/tabela-dinamica.png" width="900">
+<img src="tabela-dinamica.png" width="900">
 
 ---
 
